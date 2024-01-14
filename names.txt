@@ -1,2 +1,3 @@
-this is a new file created to try a bunch of things 
+making some changes
+his is a new file created to try a bunch of things 
 Which is very cool...
